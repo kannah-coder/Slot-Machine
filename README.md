@@ -27,5 +27,6 @@ This is a simple command-line slot machine game built in Python. The player can 
 4. Run the game:
    ```bash
    python slot_machine.py
+5.Else simply if you have vs code or other python installation use them adn run the code    
    
    
