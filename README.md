@@ -1,5 +1,4 @@
- 
-# Slot Machine Game (Python)
+ # Slot Machine Game (Python)
 
 This is a simple command-line slot machine game built in Python. The player can deposit money, choose the number of lines to bet on, place bets, and spin the slot machine to try and win.
 
@@ -28,3 +27,5 @@ This is a simple command-line slot machine game built in Python. The player can 
 4. Run the game:
    ```bash
    python slot_machine.py
+   
+   
